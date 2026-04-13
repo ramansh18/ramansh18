@@ -118,13 +118,7 @@ const ramansh = {
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ramansh18/ramansh18/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
