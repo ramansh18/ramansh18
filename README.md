@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | MERN Enthusiast | Building Digital Experiences
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Always+Learning+New+Things;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Always+Learning+New[...]
 
 </div>
 
@@ -26,7 +26,7 @@ const ramansh = {
 - 🌱 Learning **advanced React patterns** and **cloud architecture**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **MERN Stack, Tailwind CSS, Redux**
-- 📫 Reach me: **ramansh18@github.com**
+- 📫 Reach me: **ramansh8055@gmail.com**
 - ⚡ Fun fact: **Coffee + Code = Magic ☕️💻**
 
 ---
@@ -127,7 +127,7 @@ const ramansh = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramansh18)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramansh18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramansh18.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramansh18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramansh8055@gmail.com)
 
 </div>
 
